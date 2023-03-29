@@ -1,4 +1,4 @@
- 👋
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=sohyun%20cho&fontSize=90)
  <div align=center>
@@ -24,7 +24,7 @@
    
 <!--  <h6> Most I  <h6> -->
 
-
+<h6> <h6> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohyun23&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohyun23)
  
@@ -35,7 +35,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 👋
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
